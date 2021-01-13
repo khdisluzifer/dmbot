@@ -8,5 +8,5 @@ const twitterApp = {
 
 module.exports = {
   twitterApp,
-  userName: process.env.USERNAME
+  userName: process.env.meetupyuk
 };
